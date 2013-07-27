@@ -1,0 +1,5 @@
+.gitignore
+.git-ftp-include
+.git-ftp-ignore
+sftp-config\.json
+.*\.todo
